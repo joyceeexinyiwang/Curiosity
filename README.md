@@ -24,6 +24,9 @@ those^ in this repo, and...
 - [Doctor of Philosophy in Urban Studies and Planning @MIT](https://dusp.mit.edu/degrees/doctoral)
 - [D&S fellows program](https://datasociety.net/initiatives/fellows-program/)
 
+## People
+- [Joy Buolamwini](https://www.media.mit.edu/people/joyab/overview/)
+
 <br>
 
 ---
