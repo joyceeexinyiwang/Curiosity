@@ -1,10 +1,10 @@
 # Curiosity
 Things that I am curious about!
 
-### Readings
+## Readings
 (those^ in this repo)
 
-### Institutions
+## Institutions
 - Data&Society
 - [The Berkman Klein Center for Internet & Society at Harvard University](https://cyber.harvard.edu/)
 - [MIT Center for Civic Media](https://civic.mit.edu/)
