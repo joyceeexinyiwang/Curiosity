@@ -1,5 +1,10 @@
 # Curiosity
-Things that I am curious about! (mostly in the realm of technology and society, from perspectives across philosophy, sociology, history, media studies, politics, and computer science)
+
+> Where is our *Agora* today?
+>
+> How is technology transforming the concept of the public and the social landscape upon which citizenry exists?
+>
+> To find sensible answers and to continue asking provocative questions, I'd like to explore existing lines of inquiry across philosophy, sociology, history, media studies, politics, computer science, and more.
 
 ## Readings
 those^ in this repo, and...
