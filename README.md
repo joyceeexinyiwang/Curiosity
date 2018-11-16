@@ -25,6 +25,7 @@ those^ in this repo, and...
   - [Computational Social Science](https://www.microsoft.com/en-us/research/group/computational-social-science/)
   - [Kate Crawford](https://www.microsoft.com/en-us/research/people/kate/)
 - [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
+- [Mozilla Research](https://research.mozilla.org/)
 
 ## Conferences
 - [ACM Conference on Computer-Supported Cooperative Work and Social Computing](http://cscw.acm.org/2018/)
