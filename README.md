@@ -4,7 +4,7 @@
 >
 > How is technology transforming the concept of the public and the social landscape upon which citizenry exists?
 >
-> To continue asking provocative questions and to find sensible answers, I'd like to engage in different systems and explore existing lines of inquiry across philosophy, sociology, history, media studies, politics, computer science, and more.
+> I have my main analogue, which is about understanding and building technology-integrated social systems. However, to continue asking provocative questions and to find sensible answers, I'd like to engage in different systems and explore existing lines of inquiry across theater arts, philosophy, sociology, history, media studies, politics, computer science, and more.
 
 ## Readings
 those^ in this repo, and...
