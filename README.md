@@ -12,6 +12,7 @@ those^ in this repo, and...
 - [Publics and Counterpublics](https://www.amazon.com/gp/product/1890951293/ref=ox_sc_saved_title_4?smid=ATVPDKIKX0DER&psc=1)
 - [Plato's Camera: How the Physical Brain Captures a Landscape of Abstract Universals](https://www.amazon.com/gp/product/0262525186/ref=ox_sc_saved_title_6?smid=ATVPDKIKX0DER&psc=1)
 - [Poetic Computation: Reader](http://poeticcomputation.info/) by Taeyoon Choi
+- stuff I saw in 中间美术馆 about "新左派思潮" (lists of readings are captured in two photos in the repo)
 
 ## Institutions
 - Data&Society
